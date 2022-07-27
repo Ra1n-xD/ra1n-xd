@@ -1,3 +1,4 @@
+<p style="text-align: center;">Centered text</p>
 ### Hi there 👋
 - `🌱 I’m 20 years old`
 - `🧑‍💻 Languages: JavaScript`
