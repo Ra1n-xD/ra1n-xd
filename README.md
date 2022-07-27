@@ -1,4 +1,8 @@
-<p style="text-align: center;">Centered text</p>
+<div class="myWrapper" markdown="1">
+# my markdown content
+
+this content is wrapped into a div with class "myWrapper"
+</div>
 ### Hi there 👋
 - `🌱 I’m 20 years old`
 - `🧑‍💻 Languages: JavaScript`
