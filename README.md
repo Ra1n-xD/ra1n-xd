@@ -6,3 +6,6 @@
 - `💬 telegram: @Ra1n_XD`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+
+
+<p style="text-align: center;">Centered text</p>
