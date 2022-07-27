@@ -1,4 +1,4 @@
-### About me 👋
+### Hello there 👍
 - 🌱 **I’m 20 years old**
 - 🧑‍💻 **Tech stack:** JavaScript, React, HTML/CSS
 - 👷 **Speciality:** Student FE Developer
