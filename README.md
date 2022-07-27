@@ -4,3 +4,6 @@
 - `😄 Tech stack: JavaScript, React, HTML/CSS`
 - `👷 Speciality: Student FE Developer`
 - `💬 telegram: @Ra1n_XD`
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ra1n-xd)](https://github.com/anuraghazra/github-readme-stats)
+
