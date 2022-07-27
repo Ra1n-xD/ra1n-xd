@@ -5,4 +5,4 @@
 - 💬 **telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
 
 
-![1](https://github-readme-stats.vercel.app/api?username=ra1n-xd&show_icons=true&theme=onedark)
+//![1](https://github-readme-stats.vercel.app/api?username=ra1n-xd&show_icons=true&theme=onedark)
