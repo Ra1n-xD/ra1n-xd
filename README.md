@@ -3,10 +3,8 @@
 - **Speciality:** Student FE Developer
 - **telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
 
-## 💻 Technologies & Tools 
+## 🚀 Technologies & Tools 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-square&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f) 
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=ffffff&color=336791)
@@ -14,9 +12,15 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/GIT-informational?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=E44D26)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-square&logo=ubuntu&logoColor=white)
 
+## 💻 Workspace Specs
+![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/Windows-HP_OMEN_15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)
 <!--
+square
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)  
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite&logoColor=ffffff&color=747bff)
