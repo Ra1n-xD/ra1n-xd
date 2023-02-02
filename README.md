@@ -3,7 +3,6 @@
 - **Speciality:** Student FE Developer
 - **telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
 
-<hr size=3px width=500px align="left">
 
 ## :octocat: Technologies & Tools 
 <!--
