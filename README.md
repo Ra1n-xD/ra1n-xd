@@ -15,7 +15,7 @@
 
 ## 💻 Workspace Specs
 ![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-square&logo=nvidia&logoColor=white)
-<br></br> ![](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-square&logo=amd&logoColor=white)
+<p></p>![](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-square&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/Windows-HP_OMEN_15-0078D6?style=for-the-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-square&logo=apple&logoColor=white)
 <!--
