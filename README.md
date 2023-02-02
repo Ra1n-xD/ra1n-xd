@@ -1,9 +1,9 @@
 ### ✋Hello there 
-- 🧑‍💻 **Tech stack:** JavaScript, React, HTML/CSS
+- 🧑‍💻 **About me:** Eduard Chervonenko, 20 y.o
 - 👷 **Speciality:** Student FE Developer
 - 💬 **telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
 -------
-### Technologies & Tools
+### :octocat: Technologies & Tools
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
