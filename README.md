@@ -4,6 +4,8 @@
 - **telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
 
 ## 💻 Technologies & Tools 
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f) 
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
@@ -12,7 +14,7 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/GIT-informational?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=E44D26)
 
 <!--
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)  
