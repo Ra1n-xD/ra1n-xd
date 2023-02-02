@@ -1,12 +1,10 @@
-### ✋Hello there 
+<h1> ✋Hello there </h1> 
 - 🧑‍💻 **About me:** Eduard Chervonenko, 20 y.o
 - 👷 **Speciality:** Student FE Developer
 - 💬 **telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
-<h2><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
+- 
 
-<h2><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
-
-### :octocat: Technologies & Tools
+<h1> :octocat: Technologies & Tools </h1> 
 <!--
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)  
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
