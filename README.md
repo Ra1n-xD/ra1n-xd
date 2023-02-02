@@ -1,6 +1,6 @@
 ## ✋ Hello there!
 - **About me:** Eduard Chervonenko, 20 y.o
-- **Speciality:** Student FE Developer
+- **Speciality:** Junior FE Developer
 - **Telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
 
 ## 🚀 Technologies & Tools 
