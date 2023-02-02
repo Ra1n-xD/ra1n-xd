@@ -21,12 +21,4 @@
 
 <!--
 style=for-the-square
-[![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)  
-![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
-![](https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite&logoColor=ffffff&color=747bff)
-![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
-![](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
-![](https://img.shields.io/badge/Next-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000)
-![](https://img.shields.io/badge/Fastify-informational?style=flat-square&logo=fastify&logoColor=ffffff&color=000000)
-![](https://img.shields.io/badge/PNPM-informational?style=flat-square&logo=pnpm&logoColor=ffffff&color=f9ad00)](https://dev.to/envoy_/150-badges-for-github-pnk#mobile-frameworks)
 -->
