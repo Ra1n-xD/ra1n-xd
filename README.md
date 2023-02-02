@@ -2,7 +2,7 @@
 - **About me:** Eduard Chervonenko, 20 y.o
 - **Speciality:** Student FE Developer
 - **telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
-<br> </br>
+<br> </br><br> </br><br> </br><br> </br><br> </br><br> </br>
 ## :octocat: Technologies & Tools 
 <!--
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)  
