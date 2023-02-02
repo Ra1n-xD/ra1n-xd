@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-square&logo=postgresql&logoColor=ffffff&color=336791)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-square&logo=mysql&logoColor=ffffff&color=007D7D)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/GitHub-100000?style=for-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-square&logo=ubuntu&logoColor=white)
 
 ## 💻 Workspace Specs
