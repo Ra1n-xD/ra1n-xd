@@ -18,11 +18,11 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ra1n-xd&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1n-xd&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ra1n-xd&show_icons=true&theme=transparenta" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1n-xd&show_icons=true&theme=transparent" />
 </div>
 
-![Ra1n GitHub stats](https://github-readme-stats.vercel.app/api?username=ra1n-xd&show_icons=true&theme=transparent)
+![Ra1n GitHub stats](https://github-readme-stats.vercel.app/api?username=ra1n-xd)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
