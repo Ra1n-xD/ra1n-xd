@@ -17,7 +17,7 @@
 - ![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-square&logo=apple&logoColor=white)
 
 ## 📈 GitHub Stats
-![Ra1n GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Ra1n GitHub stats](https://github-readme-stats.vercel.app/api?username=ra1n-xd&show_icons=true&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ra1n-xd&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
 
 <!--
