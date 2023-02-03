@@ -4,6 +4,8 @@
 - **Telegram:** [Ra1n_XD](https://t.me/Ra1n_XD)
 
 ## 🚀 Technologies & Tools 
+![](https://img.shields.io/badge/React-informational?style=for-the-square&logo=react&logoColor=ffffff&color=066d89)
+![](https://img.shields.io/badge/TypeScript-informational?style=for-the-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-square&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML-informational?style=for-square&logo=html5&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-square&logo=sass&logoColor=white)
@@ -19,6 +21,13 @@
 - ![](https://img.shields.io/badge/Windows-HP_OMEN_15-0078D6?style=for-the-square&logo=windows&logoColor=white)
 - ![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-square&logo=apple&logoColor=white)
 
+## 📈 GitHub Stats
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=crashmax-dev&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-dev&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+</div>
+
 <!--
+https://github.com/Ileriayo/markdown-badges
 style=for-the-square
 -->
