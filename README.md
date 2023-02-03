@@ -18,7 +18,7 @@
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ra1n-xd&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ra1n-xd&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=#2a84ea)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ra1n-xd&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=fa84ea)
 
 <!--
 https://github.com/Ileriayo/markdown-badges
