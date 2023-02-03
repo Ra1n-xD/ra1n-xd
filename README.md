@@ -1,4 +1,3 @@
-## ✋ Hello there!
 ## 🚀 Technologies & Tools 
 ![](https://img.shields.io/badge/React-informational?style=for-the-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-square&logo=typescript&logoColor=ffffff&color=007acc)
