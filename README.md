@@ -15,9 +15,8 @@
 ![](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-square&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/Windows-HP_OMEN_15-0078D6?style=for-the-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-square&logo=apple&logoColor=white)
-<!--
-## 📈 GitHub Stats
 
+## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ra1n-xd&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=21a8bc)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ra1n-xd&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=21a8bc)
 
