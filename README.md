@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=ffffff&color=E44D26)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=ffffff&color=336791)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=ffffff&color=007D7D)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007acc)
