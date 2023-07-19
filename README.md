@@ -1,6 +1,6 @@
 ## 🚀 Technologies & Tools 
 ![](https://img.shields.io/badge/React-informational?style=for-the-square&logo=react&logoColor=ffffff&color=066d89)
-![](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-square&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-square&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML-informational?style=for-square&logo=html5&logoColor=ffffff&color=E44D26)
