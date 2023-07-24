@@ -12,9 +12,9 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 💻 Workspace Specs
-![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![](https://img.shields.io/badge/Windows-HP_OMEN_15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-square&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-square&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/Windows-HP_OMEN_15-0078D6?style=for-square&logo=windows&logoColor=white)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ra1n-xd&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=21a8bc)
