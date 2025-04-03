@@ -11,10 +11,9 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007acc)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## 💻 Workspace Specs
-![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-square&logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-square&logo=amd&logoColor=white)
-![](https://img.shields.io/badge/Windows-HP_OMEN_15-0078D6?style=for-square&logo=windows&logoColor=white)
+## 💻 PC Specs
+![](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-square&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/AMD-Ryzen_5_7500F-ED1C24?style=for-square&logo=amd&logoColor=white)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ra1n-xd&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=21a8bc)
